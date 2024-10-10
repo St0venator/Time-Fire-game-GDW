@@ -5,18 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/Blueprints/Time-State.uasset",
-				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Pushing_Placeholder.uasset",
-				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Time_Shift_Placeholder.uasset",
-				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Walking_Placeholder.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/Blueprints/Time-State.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/Blueprints/gghhh.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/Blueprints/hhaaa.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LC/RH1DKVJWT2HE32EM05Y6ST.uasset",
 				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Q/R494S3L8P2SUQD4K3WH2IB.uasset",
-				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/KN7X6UY5YZQTETTO613KNH.uasset"
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/KN7X6UY5YZQTETTO613KNH.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/Blueprints/Time-Exists.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4N/2UXPJM8LKV09IKFA5FYP5W.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6D/DFJM9BVQL5ECO0AATUOGP1.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/8JTHH6SSFKVJVFF9XS3ZJN.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZZ/K71TB2ZWEKTC72DKXPF6EG.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/O4CP11TH5MTJ6GM5U13LC9.uasset",
+				"C:/Users/St0ve/Downloads/Digimon World - Dawn (U)(XenoPhobia)/Time-Fire-game-GDW/Game/Content/Blueprints/Empty.uasset",
+				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/Blueprints/Time-State.uasset",
+				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Pushing_Placeholder.uasset",
+				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Time_Shift_Placeholder.uasset",
+				"C:/Users/st0ve/Projects/githubRepos/Time-Fire-game-GDW/Game/Content/sounds/Chronomancers_Tower_Walking_Placeholder.uasset"
 			]
 		}
 	]
